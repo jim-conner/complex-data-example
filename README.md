@@ -10,7 +10,7 @@ $ npm i
 $ npm start
 ```
 
-Intro Video: https://vimeo.com/535612394/eefab5219b
+Videos: https://vimeo.com/showcase/8349609
 
 ## TODO (Click the links for Videos and Notes)
 In this example, we have users and groups. There are several parts that we need to merge the data together to get it to the UI.
