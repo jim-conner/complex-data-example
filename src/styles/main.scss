@@ -32,3 +32,13 @@ body {
     padding-right: 60px;
   }
 }
+
+#group-cards {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.card {
+  margin: 20px;
+}
