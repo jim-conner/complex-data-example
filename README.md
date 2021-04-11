@@ -1,5 +1,5 @@
 # Complex Data Example
-In this example, we are going to set up some complex data in Firebase and then psudocode how we can manipulate the data to send to the UI.
+In this example, I am going to set up some complex data in Firebase and then pseudocode how we can manipulate the data to send to the UI.
 
 I will get you started, but you will need to think about what you have learned up to this point and then piece those bits of knowledge together to make the final data object that is sent to the UI.
 ## Get Started
