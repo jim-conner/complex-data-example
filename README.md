@@ -10,13 +10,13 @@ $ npm i
 $ npm start
 ```
 
-## TODO
-- Create a Home View that shows all of the groups and the users that are in each group. This view shows on App load and when a user clicks the Site Name
-- Get the count of each user's groups
-- Get the count of users in each group
-- When you click on a user on the Users View, show all the info of the groups that they belong to
-- When you click on a group on the Groups View, show all the info of the users that belong to that group
-- Allow users to search both groups and users
+## TODO (Click the links for Videos and Notes)
+1. [Create a Home View that shows all of the groups and the users that are in each group. This view shows on App load and when a user clicks the Site Name](./markdown/1.md)
+1. [Get the count of each user's groups](./markdown/2.md)
+1. [Get the count of users in each group](./markdown/3.md)
+1. [When you click on a user on the Users View, show all the info of the groups that they belong to](./markdown/4.md)
+1. [When you click on a group on the Groups View, show all the info of the users that belong to that group](./markdown/5.md)
+1. [Allow users to search both groups and users](./markdown/6.md)
 
 ## Endpoints for Project
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/f85d9684b29e8f36e0b7?action=collection%2Fimport)
