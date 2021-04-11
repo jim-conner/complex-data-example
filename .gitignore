@@ -6,4 +6,4 @@ dist/
 build/
 .env
 .firebase/
-src/helpers/completed.js
+src/javascripts/helpers/complete.js
