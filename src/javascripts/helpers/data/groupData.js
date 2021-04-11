@@ -8,4 +8,7 @@ const getGroups = () => new Promise((resolve, reject) => {
     .catch((error) => reject(error));
 });
 
+// Get groups and count up all the users in each group
+// RESOLVE the group info and the user counts
+
 export default getGroups;
