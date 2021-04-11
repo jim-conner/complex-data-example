@@ -2,7 +2,8 @@ import groupsPage from '../../views/groups';
 import homePage from '../../views/home';
 import searchPage from '../../views/search';
 import usersPage from '../../views/users';
-import getGroups from '../helpers/data/groupData';
+import groupsWithUsers from '../helpers/complete';
+import { mergeGroupData } from '../helpers/data/groupData';
 import getUsers from '../helpers/data/userData';
 
 const navigationEvents = () => {
@@ -14,11 +15,11 @@ const navigationEvents = () => {
   });
 
   $('#groups').on('click', () => {
-    getGroups().then((groups) => groupsPage(groups));
+    mergeGroupData().then((groups) => groupsPage(groups));
   });
 
   $('#groups_users').on('click', () => {
-    homePage();
+    groupsWithUsers().then((data) => homePage(data));
   });
 
   $('#search').on('click', () => {

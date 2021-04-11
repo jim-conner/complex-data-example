@@ -8,4 +8,3 @@ const homePage = (array) => {
 };
 
 export default homePage;
-

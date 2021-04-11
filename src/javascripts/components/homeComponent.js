@@ -1,5 +1,6 @@
 const homeComponent = (groupsWithUsersObj) => {
-  $('#main-container').append(`
+  $('#main-container').append('<div id="group-cards"></div>');
+  $('#group-cards').append(`
     <div class="card" style="width: 18rem;">
       <img src="${groupsWithUsersObj.image}" class="card-img-top" alt="${groupsWithUsersObj.name}">
       <div class="card-body">
