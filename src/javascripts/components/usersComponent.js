@@ -9,6 +9,7 @@ const usersComponent = (users) => {
           <th scope="col">First</th>
           <th scope="col">Last</th>
           <th scope="col">Joined</th>
+          <th scope="col"># Groups</th>
         </tr>
       </thead>
       <tbody id="users-list">
@@ -23,6 +24,7 @@ const usersComponent = (users) => {
         <td>${user.first_name}</td>
         <td>${user.last_name}</td>
         <td>${moment(user.date_joined).from()}</td>
+        <td>??</td>
       </tr>
     `);
   });

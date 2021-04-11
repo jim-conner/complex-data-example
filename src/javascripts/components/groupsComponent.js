@@ -9,6 +9,7 @@ const groupsComponent = (groups) => {
           <th scope="col">Name</th>
           <th scope="col">Decription</th>
           <th scope="col">Created</th>
+          <th scope="col"># Members</th>
         </tr>
       </thead>
       <tbody id="users-list">
@@ -23,6 +24,7 @@ const groupsComponent = (groups) => {
         <td>${group.name}</td>group
         <td class="group-description">${group.description}</td>
         <td>${moment(group.date).from()}</td>
+        <td>??</td>
       </tr>
     `);
   });
