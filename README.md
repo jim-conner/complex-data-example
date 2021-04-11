@@ -11,6 +11,8 @@ $ npm start
 ```
 
 ## TODO (Click the links for Videos and Notes)
+In this example, we have users and groups. There are several parts that we need to merge the data together to get it to the UI.
+
 1. [On Home View show all of the groups and the users that are in each group.](./markdown/1.md)
 1. [Get the count of each user's groups and add to table](./markdown/2.md)
 1. [Get the count of users in each group and add to table](./markdown/3.md)
