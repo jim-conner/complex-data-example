@@ -1,6 +1,7 @@
 {
   "-MY0-0wm08lbCJDQVW6K": {
     "id": "-MY0-0wm08lbCJDQVW6K",
+    "name": "Group 1",
     "image": "http://dummyimage.com/300x300.png/dddddd/000000",
     "description": "Nulla mollis molestie lorem.",
     "date": "2020-08-06 23:31:50",
@@ -8,6 +9,7 @@
   },
   "-MY0-0wolcndRoQcW6Le": {
     "id": "-MY0-0wolcndRoQcW6Le",
+    "name": "Group 2",
     "image": "http://dummyimage.com/300x300.png/cc0000/ffffff",
     "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",
     "date": "2020-03-10 11:00:44",
@@ -15,6 +17,7 @@
   },
   "-MY0-0wpHzikGTw195ov": {
     "id": "-MY0-0wpHzikGTw195ov",
+    "name": "Group 3",
     "image": "http://dummyimage.com/300x300.png/dddddd/000000",
     "description": "Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
     "date": "2021-01-08 17:57:41",
@@ -22,6 +25,7 @@
   },
   "-MY0-0wq8FChjHSfr9Wy": {
     "id": "-MY0-0wq8FChjHSfr9Wy",
+    "name": "Group 4",
     "image": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
     "description": "Proin eu mi. Nulla ac enim.",
     "date": "2019-09-12 18:40:47",
@@ -29,6 +33,7 @@
   },
   "-MY0-0wsqabONfNhMQmd": {
     "id": "-MY0-0wsqabONfNhMQmd",
+    "name": "Group 5",
     "image": "http://dummyimage.com/300x300.png/ff4444/ffffff",
     "description": "Pellentesque ultrices mattis odio.",
     "date": "2020-05-11 21:26:02",
@@ -36,6 +41,7 @@
   },
   "-MY0-0wt4dFko0abdhgh": {
     "id": "-MY0-0wt4dFko0abdhgh",
+    "name": "Group 6",
     "image": "http://dummyimage.com/300x300.png/ff4444/ffffff",
     "description": "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",
     "date": "2021-02-02 11:36:24",
@@ -43,6 +49,7 @@
   },
   "-MY0-0wu6IGbeACa6fqQ": {
     "id": "-MY0-0wu6IGbeACa6fqQ",
+    "name": "Group 7",
     "image": "http://dummyimage.com/300x300.png/dddddd/000000",
     "description": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
     "date": "2021-03-30 21:09:18",
@@ -50,6 +57,7 @@
   },
   "-MY0-0wwxF98zW58sQq8": {
     "id": "-MY0-0wwxF98zW58sQq8",
+    "name": "Group 8",
     "image": "http://dummyimage.com/300x300.png/ff4444/ffffff",
     "description": "In sagittis dui vel nisl.",
     "date": "2021-03-20 14:17:24",
@@ -57,6 +65,7 @@
   },
   "-MY0-0wx3vZzg3scBDTt": {
     "id": "-MY0-0wx3vZzg3scBDTt",
+    "name": "Group 9",
     "image": "http://dummyimage.com/300x300.png/dddddd/000000",
     "description": "Nulla nisl. Nunc nisl.",
     "date": "2020-03-21 07:18:01",
@@ -64,6 +73,7 @@
   },
   "-MY0-0wz_P1Xaxvhjat6": {
     "id": "-MY0-0wz_P1Xaxvhjat6",
+    "name": "Group 10",
     "image": "http://dummyimage.com/300x300.png/dddddd/000000",
     "description": "Vivamus tortor. Duis mattis egestas metus.",
     "date": "2020-10-25 05:39:40",

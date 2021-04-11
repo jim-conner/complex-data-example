@@ -2,8 +2,27 @@
 @import "~@fortawesome/fontawesome-free/css/all.min.css";
 
 body {
-  background-color: antiquewhite;
-  color: brown;
-  text-align: center;
-  margin-top: 100px;
+  background-color: white;
+  color: black;
+}
+
+.user-list-img {
+  border-radius: 50%;
+  margin-right: 20px;
+  width: 60px;
+}
+
+.table {
+  width: 80%;
+  margin: auto;
+  margin-bottom: 50px;
+  
+  th, td {
+    vertical-align: middle;
+  }
+
+  .group-description {
+    width: 350px;
+    padding-right: 60px;
+  }
 }
