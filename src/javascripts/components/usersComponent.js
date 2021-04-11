@@ -1,7 +1,7 @@
 import moment from 'moment';
 
 const usersComponent = (users) => {
-  $('#main-container').html(`
+  $('#main-container').append(`
     <table class="table table-borderless table-hover">
       <thead>
         <tr>
