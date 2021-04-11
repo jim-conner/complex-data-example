@@ -16,6 +16,7 @@ const getGroups = () => new Promise((resolve, reject) => {
 const mergeGroupData = () => new Promise((resolve, reject) => {
   Promise.all([getGroups(), getUserGroups()])
     .then(([groups, userGroupsJoin]) => {
+      // COMPLETE THIS FUNCTION
       console.warn(userGroupsJoin);
       resolve(groups);
     }).catch((error) => reject(error));

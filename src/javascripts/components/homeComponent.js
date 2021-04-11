@@ -5,15 +5,18 @@ const homeComponent = (groupsWithUsersObj) => {
       <img src="${groupsWithUsersObj.image}" class="card-img-top" alt="${groupsWithUsersObj.name}">
       <div class="card-body">
         <h5 class="card-title">${groupsWithUsersObj.name}</h5>
-        <p class="card-text">${groupsWithUsersObj.description}</p>
+        <p class="card-text">
+        <h6>Description:</h6>
+          ${groupsWithUsersObj.description}
+        </p>
       </div>
       <ul id="groups-users-${groupsWithUsersObj.id}" class="list-group list-group-flush">
         <li class="list-group-item"><b>Group Members</b></li>
       </ul>
-      <div class="card-body">
-        <a href="#" class="card-link">Card link</a>
-        <a href="#" class="card-link">Another link</a>
-      </div>
+      <!-- <div class="card-body">
+      <a href="#" class="card-link">Card link</a>
+      <a href="#" class="card-link">Another link</a>
+    </div> -->
     </div>
   `);
 
