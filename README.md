@@ -13,16 +13,16 @@ $ npm start
 ## TODO (Click the links for Videos and Notes)
 In this example, we have users and groups. There are several parts that we need to merge the data together to get it to the UI.
 
-**DO A CODEBSED SEARCH for `TODO:` and you will see the files that need updating.
+**DO A CODEBASED SEARCH for `TODO:` and you will see the files that need updating.
 
 1. [On Home View show all of the groups and the users that are in each group.](./markdown/1.md)
 1. [Get the count of each user's groups and add to table](./markdown/2.md)
-1. [Get the count of users in each group and add to table](./markdown/3.md)
+1. STUDENTS DO: Get the count of users in each group and add to table
 
-Extra Stuff for your pleasure...
-1. [When you click on a user on the Users View, show all the info of the groups that they belong to](./markdown/4.md)
-1. [When you click on a group on the Groups View, show all the info of the users that belong to that group](./markdown/5.md)
-1. [Allow users to search both groups and users](./markdown/6.md)
+Extra Stuff for YOU to try...
+1. When you click on a user on the Users View, show all the info of the groups that they belong to
+1. When you click on a group on the Groups View, show all the info of the users that belong to that group
+1. Allow users to search both groups and users
 
 ## Endpoints for Project
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/f85d9684b29e8f36e0b7?action=collection%2Fimport)
