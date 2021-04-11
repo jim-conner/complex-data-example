@@ -15,6 +15,8 @@ In this example, we have users and groups. There are several parts that we need 
 
 **DO A CODEBASED SEARCH for `TODO:` and you will see the files that need updating.
 
+The only thing you should be working on is the data files for this exercise
+
 1. [On Home View show all of the groups and the users that are in each group.](./markdown/1.md)
 1. [Get the count of each user's groups and add to table](./markdown/2.md)
 1. STUDENTS DO: Get the count of users in each group and add to table
